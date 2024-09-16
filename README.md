@@ -1,6 +1,6 @@
-# Первый проект на расте на гите, хах
-## Запуск
-Для запуска сервера используйте команду:
+# First project on rust on git
+## Launch
+To start the server use the command:
  `cargo run --bin client`,
- Для запуска клиента, соответственно:
+ To start the client, respectively:
  `cargo run --bin client`
